@@ -1,0 +1,5 @@
+technician_id,technician,total_assigned_tickets,active_tickets,resolved_tickets
+101,Avery Brooks,6,2,4
+103,Casey Morgan,5,1,4
+102,Jordan Quinn,5,1,4
+104,Taylor Reed,0,0,0

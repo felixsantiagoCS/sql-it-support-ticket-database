@@ -1,0 +1,5 @@
+priority,active_tickets,open_tickets,in_progress_tickets
+Critical,1,1,0
+High,3,2,1
+Medium,1,1,0
+Low,1,0,1

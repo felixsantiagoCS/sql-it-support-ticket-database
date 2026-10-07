@@ -1,0 +1,3 @@
+ticket_id,title,priority,status,requester,asset_tag
+18,Laptop cannot connect to the office network,High,Open,Nina Patel,LT-002
+16,Reporting application needs installation,Medium,Open,Omar Rivera,DT-001
